@@ -6,7 +6,7 @@ Community Access is a community-driven open-source organization building AI-powe
 
 ## What We Build
 
-- **[Accessibility Agents](https://github.com/Community-Access/accessibility-agents)**: 35 specialized AI agents that enforce WCAG 2.2 AA compliance across web code, Office documents, PDFs, and Markdown. Install in one command.
+- **[Accessibility Agents](https://github.com//accessibility-agents)**: 35 specialized AI agents that enforce WCAG 2.2 AA compliance across web code, Office documents, PDFs, and Markdown. Install in one command.
 
 ## Why This Exists
 
